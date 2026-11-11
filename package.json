@@ -1,0 +1,31 @@
+{
+  "name": "iv-unidadedeprograma-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riquelmefreitas193-blip/IV-unidadedeprograma-o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riquelmefreitas193-blip/IV-unidadedeprograma-o/issues"
+  },
+  "homepage": "https://github.com/riquelmefreitas193-blip/IV-unidadedeprograma-o#readme",
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "tsc": "^2.0.4",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
